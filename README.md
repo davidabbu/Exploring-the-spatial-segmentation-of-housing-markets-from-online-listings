@@ -1,7 +1,7 @@
 
 ## Data and materials for "Exploring the spatial segmentation of housing markets from online listings"
 
-This folder contains the materials from the publication: "Exploring the spatial segmentation of housing markets from online listings".
+This folder contains the materials from the publication: "Exploring the spatial segmentation of housing markets from online listings". The full dataset containing all the
 
 It includes the weighted networks of spatial units, where the link between two spatial units account not only for the presence of common real estate agencies operating in both units but also its influence, accounting for the relative share of those agencies in that spatial units.
 
